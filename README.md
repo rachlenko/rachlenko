@@ -21,6 +21,8 @@ Evgeny :)
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <br>
+</p1>
+<p>
   * [GraalVM CE](https://www.graalvm.org/)
   * [OpenJDK](https://openjdk.org/) 8
   * [NixOS](https://nixos.org/download.html)
@@ -52,4 +54,4 @@ Evgeny :)
 </ul>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 25 April, 16:33 WEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 25 April, 16:35 WEST<br /></p>
