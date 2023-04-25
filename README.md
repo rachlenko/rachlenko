@@ -26,25 +26,25 @@ Evgeny :)
 
 <br>
 <li><a href="https://www.graalvm.org/">
-  <b>Tech blog</b></a><br/><i>GraalVM CE</i></li>
+  <b>GraalVM CE</b></a><br/></li>
 <br>
 <li><a href="https://openjdk.org/">
-  <b>Tech blog</b></a><br/><i>OpenJDK</i></li>
+  <b>OpenJDK</b></a><br/></li>
 <br>
 <li><a href="https://nixos.org/download.html">
-  <b>Tech blog</b></a><br/><i>NixOS</i></li>
+  <b>NixOS</b></a><br/></li>
 <br>
 <li><a href="https://github.com/nix-community/nix-direnv">
-  <b>Tech blog</b></a><br/><i>nix-direnv</i></li>
+  <b>nix-direnv</b></a><br/></li>
 <br>
 <li><a href="https://www.scala-sbt.org/">
-  <b>Tech blog</b></a><br/><i>sbt</i></li>
+  <b>Sbt</b></a><br/></li>
 <br>
 <li><a href="http://discord.devinsideyou.com">
-  <b>Tech blog</b></a><br/><i>discord</i></li>
+  <b>Discord</b></a><br/></li>
 <br>
 <li><a href="https://www.jetbrains.com/">
-  <b>Tech blog</b></a><br/><i>Intellij IDEA</i></li>
+  <b>Intellij IDEA</b></a><br/></li>
 <br>
 
 <h3>Open source projects</h3>
@@ -69,4 +69,4 @@ Evgeny :)
 </ul>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 25 April, 16:53 WEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 25 April, 16:58 WEST<br /></p>
