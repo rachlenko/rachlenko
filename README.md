@@ -23,13 +23,13 @@ Evgeny :)
   <br>
 </p1>
 <p>
-* [GraalVM CE](https://www.graalvm.org/)
-* [OpenJDK](https://openjdk.org/) 8
-* [NixOS](https://nixos.org/download.html)
-* [nix-direnv](https://github.com/nix-community/nix-direnv)
-* [sbt](https://www.scala-sbt.org/)
-* [discord](http://discord.devinsideyou.com)
-* [Intellij IDEA](https://www.jetbrains.com/)
+* [GraalVM CE](https://www.graalvm.org/)<br>
+* [OpenJDK](https://openjdk.org/) 8<br>
+* [NixOS](https://nixos.org/download.html)<br>
+* [nix-direnv](https://github.com/nix-community/nix-direnv)<br>
+* [sbt](https://www.scala-sbt.org/)<br>
+* [discord](http://discord.devinsideyou.com)<br>
+* [Intellij IDEA](https://www.jetbrains.com/)<br>
 </p>
 
 <h3>Open source projects</h3>
@@ -54,4 +54,4 @@ Evgeny :)
 </ul>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 25 April, 16:38 WEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 25 April, 16:39 WEST<br /></p>
