@@ -22,7 +22,7 @@ Evgeny :)
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <br>
 </p1>
-<p>
+<br>
 * [GraalVM CE](https://www.graalvm.org/)<br>
 * [OpenJDK](https://openjdk.org/) 8<br>
 * [NixOS](https://nixos.org/download.html)<br>
@@ -30,7 +30,6 @@ Evgeny :)
 * [sbt](https://www.scala-sbt.org/)<br>
 * [discord](http://discord.devinsideyou.com)<br>
 * [Intellij IDEA](https://www.jetbrains.com/)<br>
-</p>
 
 <h3>Open source projects</h3>
 <table>
@@ -54,4 +53,4 @@ Evgeny :)
 </ul>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 25 April, 16:39 WEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 25 April, 16:40 WEST<br /></p>
