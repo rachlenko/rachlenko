@@ -23,8 +23,6 @@ Evgeny :)
   <br>
 </p1>
 
-
-<br>
 <li><a href="https://www.graalvm.org/">
   <b>GraalVM CE</b></a><br/></li>
 <li><a href="https://openjdk.org/">
@@ -62,4 +60,4 @@ Evgeny :)
 </ul>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 25 April, 17:01 WEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 25 April, 17:03 WEST<br /></p>
