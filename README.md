@@ -40,7 +40,7 @@ Evgeny :)
 <li><a href="https://kotlinlang.org">
   <b>Kotlin</b></a><br/></li>
 <li><a href="https://www.terraform.io">
-  <b>Terraform </b></a><br/><i>infrastructure as a code<\i></li>
+  <b>Terraform </b></a><br/></li>
 
 
 <h3>Open source projects</h3>
@@ -65,4 +65,4 @@ Evgeny :)
 </ul>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 25 April, 17:07 WEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 25 April, 17:10 WEST<br /></p>
