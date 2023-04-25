@@ -27,25 +27,18 @@ Evgeny :)
 <br>
 <li><a href="https://www.graalvm.org/">
   <b>GraalVM CE</b></a><br/></li>
-<br>
 <li><a href="https://openjdk.org/">
   <b>OpenJDK</b></a><br/></li>
-<br>
 <li><a href="https://nixos.org/download.html">
   <b>NixOS</b></a><br/></li>
-<br>
 <li><a href="https://github.com/nix-community/nix-direnv">
   <b>nix-direnv</b></a><br/></li>
-<br>
 <li><a href="https://www.scala-sbt.org/">
   <b>Sbt</b></a><br/></li>
-<br>
 <li><a href="http://discord.devinsideyou.com">
   <b>Discord</b></a><br/></li>
-<br>
 <li><a href="https://www.jetbrains.com/">
   <b>Intellij IDEA</b></a><br/></li>
-<br>
 
 <h3>Open source projects</h3>
 <table>
@@ -69,4 +62,4 @@ Evgeny :)
 </ul>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 25 April, 16:58 WEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 25 April, 17:01 WEST<br /></p>
