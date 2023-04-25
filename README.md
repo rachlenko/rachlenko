@@ -1,7 +1,14 @@
-<h1>Welcome to my page! </h1> 
-I'm Evgeny, happy SRE engineer , currently living in <b> Madeira, Portugal</b>. </p>
+<h1>Welcome to my page! </h1>
+<p>
+	<b>
+I do not remember where I read that out of 100 ideas into projects you get only one billion-dollar company. 
+Obviously I don't have very long to wait :). For now, these are projects in which I test my ideas and hypotheses, 
+or just puzzles that I like to solve in the scope of my goals or other friendly projects.  
+	</b>.
+Evgeny :) 
+</p>
 
-<h3>Things I use in the projects </h3>
+<h3>Tech stack</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -36,4 +43,4 @@ I'm Evgeny, happy SRE engineer , currently living in <b> Madeira, Portugal</b>. 
 </ul>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 25 April at 14:51 WEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Tuesday, 25 April at 15:05 WEST<br /></p>
