@@ -50,4 +50,11 @@ Evgeny :)
   </tbody>
 </table>
 
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Monday, 1 May, 20:57 WEST<br /></p>
+<h3>Blog</h3>
+<ul>
+  <li><a href="/blog/01-05-2023.html</b></a><br/><i>Starting Blog</i></li>
+</ul>
+
+This <i>README</i> 
+file is generated <b>every day</b>! 
+Last refresh: Monday, 1 May at 21:11 WEST 
