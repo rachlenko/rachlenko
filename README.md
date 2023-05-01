@@ -10,24 +10,18 @@ Evgeny :)
 
 <h3>Tech stack</h3>
 
-<li><a href="https://www.graalvm.org/">
-  <b>GraalVM CE</b></a><br/></li>
-<li><a href="https://openjdk.org/">
-  <b>OpenJDK</b></a><br/></li>
+<li><a href="https://www.python.org">
+  <b>Python</b></a><br/></li>
 <li><a href="https://nixos.org/download.html">
   <b>NixOS</b></a><br/></li>
 <li><a href="https://github.com/nix-community/nix-direnv">
   <b>nix-direnv</b></a><br/></li>
-<li><a href="https://www.scala-sbt.org/">
-  <b>Sbt</b></a><br/></li>
-<li><a href="http://discord.devinsideyou.com">
-  <b>Discord</b></a><br/></li>
 <li><a href="https://www.jetbrains.com/">
   <b>Intellij IDEA</b></a><br/></li>
 <li><a href="https://kotlinlang.org">
   <b>Kotlin</b></a><br/></li>
 <li><a href="https://www.terraform.io">
-  <b>Terraform </b></a><br/></li>
+  <b>Terraform</b></a><br/></li>
 
 
 <h3>Open source projects</h3>
@@ -42,4 +36,4 @@ Evgeny :)
 
 This <i>README</i> 
 file is generated <b>every day</b>! 
-Last refresh: Monday, 1 May, 21:32 WEST 
+Last refresh: Monday, 1 May, 21:38 WEST 
