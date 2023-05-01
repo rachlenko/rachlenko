@@ -40,11 +40,6 @@ Evgeny :)
   </tbody>
 </table>
 
-<h3>Blog</h3>
-<ul>
-  <li><a href="/blog/01-05-2023.html</b></a><br/><i>Starting Blog</i></li>
-</ul>
-
 This <i>README</i> 
 file is generated <b>every day</b>! 
-Last refresh: Monday, 1 May, 21:30 WEST 
+Last refresh: Monday, 1 May, 21:32 WEST 
