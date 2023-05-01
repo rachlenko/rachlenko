@@ -44,12 +44,6 @@ Evgeny :)
 
 <h3>Open source projects</h3>
 <table>
-  <thead align="center">
-    
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-    </tr>
-  </thead>
   <tbody>
      <tr>
       <td><a href="https://github.com/rachlenko/prometheus"><b>Prometheus monitoring system</b></a></td>
@@ -59,4 +53,4 @@ Evgeny :)
 </table>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Monday, 1 May, 17:31 WEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Monday, 1 May at 17:39 WEST<br /></p>
