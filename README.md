@@ -10,7 +10,6 @@ Evgeny :)
 </p>
 
 <h3>Tech stack</h3>
-<p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -46,7 +45,7 @@ Evgeny :)
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
-    <tr border: none;>
+    
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
     </tr>
@@ -59,10 +58,5 @@ Evgeny :)
   </tbody>
 </table>
 
-<h3>My latest posts</h3>
-<ul>
-  <li><a href="https://rachlenko.medium.com"><b>Tech blog</b></a><br/><i>Stories from the lab</i></li>
-</ul>
-
 ------------
-<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Monday, 1 May, 16:52 WEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every day</b>!</br>Last refresh: Monday, 1 May, 17:31 WEST<br /></p>
