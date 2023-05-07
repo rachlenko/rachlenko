@@ -1,4 +1,4 @@
-<h1>Welcome to my page! </h1>
+<h1>Home page.</h1>
 <p>
 	<b>
 These are projects in which I test my ideas and hypotheses, 
@@ -6,7 +6,7 @@ or just puzzles that I like to solve in the scope of my goals or other friendly 
 I would be glad if anyone found it useful.
 	</b>.
 <br>
-Evgeny :) 
+ 
 
 <h3>Tech stack</h3>
 
