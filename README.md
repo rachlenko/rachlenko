@@ -3,9 +3,10 @@
 	<b>
 These are projects in which I test my ideas and hypotheses, 
 or just puzzles that I like to solve in the scope of my goals or other friendly projects.  
+I would be glad if anyone found it useful.
 	</b>.
 <br>
-
+Evgeny :) 
 
 <h3>Tech stack</h3>
 
@@ -35,3 +36,4 @@ or just puzzles that I like to solve in the scope of my goals or other friendly 
 
 This <i>README</i> 
 file is generated <b>every day</b>! 
+Last refresh: Sunday, 30 July, 12:20 WEST 
