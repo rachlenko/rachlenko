@@ -1,39 +1,41 @@
-<h1>Welcome to my page! </h1>
-<p>
-	<b>
-These are projects in which I test my ideas and hypotheses, 
-or just puzzles that I like to solve in the scope of my goals or other friendly projects.  
-I would be glad if anyone found it useful.
-	</b>.
-<br>
-Evgeny :) 
+# Website
 
-<h3>Tech stack</h3>
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-<li><a href="https://www.python.org">
-  <b>Python</b></a><br/></li>
-<li><a href="https://nixos.org/download.html">
-  <b>NixOS</b></a><br/></li>
-<li><a href="https://github.com/nix-community/nix-direnv">
-  <b>nix-direnv</b></a><br/></li>
-<li><a href="https://www.jetbrains.com/">
-  <b>Intellij IDEA</b></a><br/></li>
-<li><a href="https://kotlinlang.org">
-  <b>Kotlin</b></a><br/></li>
-<li><a href="https://www.terraform.io">
-  <b>Terraform</b></a><br/></li>
+### Installation
 
+```
+$ yarn
+```
 
-<h3>Open source projects</h3>
-<table>
-  <tbody>
-     <tr>
-      <td><a href="https://github.com/rachlenko/prometheus"><b>Prometheus monitoring system</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/rachlenko"/></td>
-    </tr>
-  </tbody>
-</table>
+### Local Development
 
-This <i>README</i> 
-file is generated <b>every day</b>! 
-Last refresh: Thursday, 5 October, 13:05 WEST 
+```
+$ yarn start
+```
+
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
+### Build
+
+```
+$ yarn build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+### Deployment
+
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
