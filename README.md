@@ -5,7 +5,7 @@
 
 **These are projects in which I test my ideas and hypotheses, or just puzzles that I like to solve in the scope of my goals or other friendly projects. I would be glad if anyone found it useful.**
 
-Evgeny :)
+
 
 ### Tech stack
 
@@ -22,5 +22,4 @@ Evgeny :)
 | ------------ | ----- |
 | [**Prometheus monitoring system**](https://github.com/rachlenko/prometheus) | ![Stars](https://img.shields.io/github/stars/rachlenko) |
 
-This **README** file is generated **every day**!
-Last refresh: Thursday, 5 October, 13:05 WEST
+
