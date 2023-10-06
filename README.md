@@ -1,41 +1,27 @@
-# Website
+---
+title: Welcome to my page!
+---
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+# Welcome to my page!
 
-### Installation
+**These are projects in which I test my ideas and hypotheses, or just puzzles that I like to solve in the scope of my goals or other friendly projects. I would be glad if anyone found it useful.**
 
-```
-$ yarn
-```
+Evgeny :)
 
-### Local Development
+### Tech stack
 
-```
-$ yarn start
-```
+- [**Python**](https://www.python.org)
+- [**NixOS**](https://nixos.org/download.html)
+- [**nix-direnv**](https://github.com/nix-community/nix-direnv)
+- [**Intellij IDEA**](https://www.jetbrains.com/)
+- [**Kotlin**](https://kotlinlang.org)
+- [**Terraform**](https://www.terraform.io)
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+### Open source projects
 
-### Build
+| Project Name | Stars |
+| ------------ | ----- |
+| [**Prometheus monitoring system**](https://github.com/rachlenko/prometheus) | ![Stars](https://img.shields.io/github/stars/rachlenko) |
 
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+This **README** file is generated **every day**!
+Last refresh: Thursday, 5 October, 13:05 WEST
