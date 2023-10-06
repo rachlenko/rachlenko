@@ -1,6 +1,7 @@
 version: '3'
 services:
   docusaurus:
+    restart: unless-stopped
     build:
       context: .
     ports:
