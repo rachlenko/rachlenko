@@ -8,20 +8,4 @@ title: Welcome to my page!
 
 Evgeny :)
 
-### Tech stack
 
-- [**Python**](https://www.python.org)
-- [**NixOS**](https://nixos.org/download.html)
-- [**nix-direnv**](https://github.com/nix-community/nix-direnv)
-- [**Intellij IDEA**](https://www.jetbrains.com/)
-- [**Kotlin**](https://kotlinlang.org)
-- [**Terraform**](https://www.terraform.io)
-
-### Open source projects
-
-| Project Name | Stars |
-| ------------ | ----- |
-| [**Prometheus monitoring system**](https://github.com/rachlenko/prometheus) | ![Stars](https://img.shields.io/github/stars/rachlenko) |
-
-This **README** file is generated **every day**!
-Last refresh: Thursday, 5 October, 13:05 WEST
