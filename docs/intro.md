@@ -22,6 +22,3 @@ Evgeny :)
 | Project Name | Stars |
 | ------------ | ----- |
 | [**Prometheus monitoring system**](https://github.com/rachlenko/prometheus) | ![Stars](https://img.shields.io/github/stars/rachlenko) |
-
-This **README** file is generated **every day**!
-Last refresh: Thursday, 5 October, 13:05 WEST
