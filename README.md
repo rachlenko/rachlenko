@@ -9,18 +9,6 @@ Feel free to explore, provide feedback, or even collaborate on these projects. T
 Thank you for joining me on this coding odyssey!
 Happy coding :)
 
-**
-
-
-
-### Tech stack
-
-- [**Python**](https://www.python.org)
-- [**NixOS**](https://nixos.org/download.html)
-- [**nix-direnv**](https://github.com/nix-community/nix-direnv)
-- [**Intellij IDEA**](https://www.jetbrains.com/)
-- [**Kotlin**](https://kotlinlang.org)
-- [**Terraform**](https://www.terraform.io)
 
 ### Open source projects
 
