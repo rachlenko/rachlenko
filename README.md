@@ -19,7 +19,7 @@ Happy coding :)
 | ------------ | ----- |
 | [**Prometheus monitoring system**](https://github.com/rachlenko/prometheus) | ![Stars](https://img.shields.io/github/stars/rachlenko) |
 
-[my cv ](evgeny.rachlenko.cv.2024.md)
+
 
 
 
