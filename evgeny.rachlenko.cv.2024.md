@@ -3,9 +3,10 @@
 ## Site Reliability Engineer
 
 Contact: evgeny.rachlenko@gmail.com
-Phone:   +(351)924689242
+Phone: +(351)924689242
 
 ### Core Competencies:
+
 - **Backend Technologies:** Proficient in Python, SQL, Java, Kotlin, Go, Erlang, Elixir
 - **Frontend Development:** Skilled in HTML5, CSS, NodeJS, JavaScript
 - **DevOps Tools:** Experienced with Git, TeamCity, Jenkins, CircleCI, Terraform, Ansible, Chef, Docker, Kubernetes, Helm
@@ -18,7 +19,9 @@ Phone:   +(351)924689242
 ### Professional Experience:
 
 #### Twingo, Site Reliability Engineer
-*August 2017 - February 2024, Herzlia, Israel*
+
+_August 2017 - February 2024, Herzlia, Israel_
+
 - Architected and designed new services using Go, Elixir, Python
 - Managed SingleStore DB and integrated application performance monitoring tools (ElasticSearch Kibana, Grafana, Prometheus, Jaeger)
 - Optimized ETL procedures, performed performance tuning, and refactored legacy Java code to Kotlin
@@ -35,7 +38,9 @@ Phone:   +(351)924689242
 - Developed and resolved issues with new features in the field of robotics software engineering, particularly focusing on Robot Operating System (ROS).
 
 #### Outbrain, DevOps Engineer
-*May 2014 - April 2017, Netanya, Israel*
+
+_May 2014 - April 2017, Netanya, Israel_
+
 - Maintained Kafka clusters and integrated services with Hadoop
 - Administered databases: HP Vertica, Cassandra, ScyllaDB
 - Optimized system performance and developed automation plugins (Chef, Ruby)
@@ -44,7 +49,9 @@ Phone:   +(351)924689242
 - Integrated CI/CD and wrote integration tests (Pytest)
 
 #### Verint, Database Administrator
-*January 2010 - April 2014, Herzlia, Israel*
+
+_January 2010 - April 2014, Herzlia, Israel_
+
 - Provided technical support and maintenance for mission-critical services
 - Automated processes for Hadoop clusters, NetApp storages, Sybase DB, Greenplum
 - Supported R&D groups with diverse DB environments and unique requirements
@@ -55,7 +62,8 @@ Phone:   +(351)924689242
 ### Education:
 
 - **Leibovich Academy College, BSc in Electronics**
+
   - 1995, Netanya
 
-- **The Open University of Israel, BA in Mathematics**
-  - 2022, Tel Aviv
+- **The Open University of Israel, learning path in Computer Science**
+  - 2000, Ra'anana
